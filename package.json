@@ -17,7 +17,7 @@
     "express-graphql": "^0.12.0",
     "graphql": "^15.4.0",
     "graphql-tools": "^7.0.1",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "mongoose": "^5.10.14",
     "nodemon": "^2.0.6",
     "sequelize": "^6.3.5",
